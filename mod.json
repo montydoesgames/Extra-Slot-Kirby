@@ -1,0 +1,33 @@
+{
+	"Metadata":
+	{
+		"Name": "Extra Slot Kirby",
+		"Author": "montydoesgames",
+		"Description": "Kirby, Kirby, Kirby, That’s the name you should know! Kirby, Kirby, Kirby, he’s the star of the show! He's more than you think, he's got maximum pink! Kirby, Kirby, Kirby's the one!"
+	},
+	"Settings":
+	{
+		"Visual poyos":
+		[
+			{
+				"InternalName": "ESKirbyPalette",
+
+				"DisplayName": "Palette",
+				"Variable": "KirboColours",
+				"DefaultValue": "0",
+				"Category": "Appearance",
+				"Options":
+				{
+					"0": "Kirby",
+					"1": "Keeby",
+					"2": "Red Kirby",
+					"3": "Blue Kirby",
+					"4": "Green Kirby",
+					"5": "Shadow Kirby",
+					"6": "Meta Knight",
+					"7": "Waddle Dee",
+				}
+			}
+    	]
+	}
+}
