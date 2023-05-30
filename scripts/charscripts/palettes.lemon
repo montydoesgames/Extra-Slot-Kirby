@@ -1,0 +1,27 @@
+global u8 KirboColours
+
+function string getCharacterPaletteKey(u8 character)
+{
+	if (XtraChar == 192)
+	{
+		if (KirboColours == 0)
+			return "Kirby"
+		if (KirboColours == 1)
+			return "Keeby"
+		if (KirboColours == 2)
+			return "Reddy"
+		if (KirboColours == 3)
+			return "Bluey"
+		if (KirboColours == 4)
+			return "Grassy"
+		if (KirboColours == 5)
+			return "ShadowK"
+		if (KirboColours == 6)
+			return "MetaKnight"
+		if (KirboColours == 7)
+			return "WaddleDee"
+		else
+			return "Kirby"
+	}
+    return base.getCharacterPaletteKey(character)
+}
