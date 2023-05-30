@@ -5,4 +5,7 @@ A mod for Sonic 3: Angel Island Revisited that plans to add Kirby and his movese
 He will come with palettes based on other Kirby colours and characters from the series and will (eventually) have his abilities.
 
 # Looking to contribute? (Adding sprites, abilities, etc)
-Feel free to fork this repository and send a Pull Request describing what has been added/changed.
+Head to our Discord server and get those gears turning!
+
+# Join the Discord server!
+https://discord.gg/YUutJuGuq6
